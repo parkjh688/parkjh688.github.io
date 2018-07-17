@@ -8,14 +8,15 @@ permalink:           pretty
 title:               Let's Dig IT
 tagline:             'feat. Junghyun Park'
 #description:         ' <a href="http://jekyllrb.com" target="_blank"> Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
-baseurl:             ''
+url:
+github.repo:         'https://github.com/parkjh688'
+baseurl:             '/blog/categories/'
 paginate:            5
 
 # About/contact
 author:
   name:              Junghyun Park
-  url:               https://twitter.com/mdo
+  url:
   email:             parkjh688@gmail.com
 
 # Custom vars

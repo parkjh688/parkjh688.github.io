@@ -10,7 +10,8 @@ Docker image를 사용하려면 이미지는 `Dockerfile`을 만들고 `docker b
 
 회사에서 개발한 챗봇을 배포하기 위해 Dockerfile 을 직접 만들어야해서 Docker 를 시작하게 되었다. :flushed:
 
-<br><strong><span style="color:red">그렇다면 Dockerfile 이란 무엇일까?</span></strong><br>
+<br><strong><span style="color:red">그렇다면 Dockerfile 이란 무엇일까?</span></strong><br><br>
+
 `Dockerfile` 은 Docker 이미지 설정 파일이다. Dockerfile 을 build 명령어를 이용해서 설정한 그대로 이미지를 생성할 수 있다.
 
 간단하게 ubuntu:16.04 를 기반으로 python3.6, git 을 설치하는
