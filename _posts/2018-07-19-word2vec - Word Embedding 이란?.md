@@ -3,7 +3,7 @@ layout : post
 title : "word2vec - Word Embedding 이란?"
 date : 2018-07-19 01:00:00 +0900
 author : viking
-category: PyTorch
+category: Deep Learning
 tag: ['Deep Learning']
 ---
 
