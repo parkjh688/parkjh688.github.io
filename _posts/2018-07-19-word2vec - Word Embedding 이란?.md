@@ -3,8 +3,7 @@ layout : post
 title : "word2vec - Word Embedding 이란?"
 date : 2018-07-19 01:00:00 +0900
 author : viking
-category: Deep Learning
-tag: ['Deep Learning']
+category: Deep learning
 ---
 
 word embedding 기법 중 하나인 word2vec 을 포스팅하기 위한 밑밥 깔기 포스팅이다.

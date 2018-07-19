@@ -4,7 +4,6 @@ title : "PyTorch 시작하기 - Neural Networks"
 date : 2018-07-17 01:00:00 +0900
 author : viking
 category: PyTorch
-tag: ['Deep Learning', 'PyTorch']
 ---
 
 Neural Networks 는 `torch.nn` 패키지를 이용해서 만들 수 있다.

@@ -4,7 +4,6 @@ title : "PyTorch 시작하기 - Tensor, AutoGrad"
 date : 2018-07-16 01:00:00 +0900
 author : viking
 category: PyTorch
-tag: ['Deep Learning', '"PyTorch']
 ---
 <script type="text/javascript"
        src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default">
