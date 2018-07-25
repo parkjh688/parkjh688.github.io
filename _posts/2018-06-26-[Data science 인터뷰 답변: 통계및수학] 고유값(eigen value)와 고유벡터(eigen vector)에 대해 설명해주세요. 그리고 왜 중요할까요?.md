@@ -17,7 +17,7 @@ category : 데이터 사이언스 인터뷰 질문집 답변
 <a href="https://zzsza.github.io/data/2018/02/17/datascience-interivew-questions/">변성윤님 블로그: 데이터 사이언스 인터뷰 질문집</a>
 
 <br>
-하루에 최소 1개의 답변을 업로드 하는 것을 목표로 한다!
+일주일에 최소 3개의 답변을 업로드 하는 것을 목표로 한다!
 <br><br>
 #### 통계 및 수학
 <strong><span style="color:#006666">통계 및 수학</span></strong> contents 에서 1번 질문인
